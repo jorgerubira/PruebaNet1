@@ -36,11 +36,11 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(61, 12);
+            this.button1.Location = new System.Drawing.Point(111, 12);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "Holaaa";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
@@ -57,7 +57,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 77);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(50, 13);
+            this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 2;
             this.label1.Text = "label1";
             // 
